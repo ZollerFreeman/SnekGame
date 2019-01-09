@@ -1,0 +1,19 @@
+﻿  compilation header save succeeded; see C:\Users\andre\Desktop\Project Chili Library\Snek Game\Engine\FramebufferPS.shh
+  compilation header save succeeded; see C:\Users\andre\Desktop\Project Chili Library\Snek Game\Engine\FramebufferVS.shh
+  Board.cpp
+  DXErr.cpp
+  Fruit.cpp
+  Game.cpp
+  Graphics.cpp
+  Keyboard.cpp
+  Main.cpp
+  MainWindow.cpp
+  Mouse.cpp
+  Snek.cpp
+  SpriteCodex.cpp
+  Generating code
+  618 of 625 functions (98.9%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Engine.vcxproj -> C:\Users\andre\Desktop\Project Chili Library\Snek Game\x64\Release\Engine.exe

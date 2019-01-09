@@ -1,0 +1,8 @@
+To play the game rename Snek_Game.txt to Snek_Game.exe
+Then play by starting Snek_Game.exe
+
+The game starts by pressing 'space'
+Movement is with the arrows
+You are the square that's moving (yellow)
+Don't hit the gray borders
+Eat everything and grow
